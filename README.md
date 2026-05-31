@@ -1,5 +1,3 @@
-# My-P-XuLie2XML2MID
-一种自定义格式P序列与XML和MID互转程序
 ◆依赖：Python 3.14.5 win64版本
     官网：www.python.org
     安装后，cmd命令行运行：py
